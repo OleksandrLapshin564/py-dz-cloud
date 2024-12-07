@@ -20,7 +20,7 @@ def calculate_factorial(n):
 print("Calculating factorial using math.factorial:")
 
 # Заздалегідь задані числа для обчислення факторіалів
-numbers = [5, 0, -3, 7]  # Числа можна змінити
+numbers = [6, 1, -4, 8]  # Числа можна змінити
 
 print(f"Selected numbers: {numbers}")
 

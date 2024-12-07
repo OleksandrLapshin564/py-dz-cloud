@@ -25,7 +25,7 @@ def log_iterations(number):
 print("Calculating the number of iterations of the natural logarithm:")
 
 # Заздалегідь задані приклади чисел
-numbers = [10, math.e ** 2, 1000, 0.5]
+numbers = [12, math.e ** 2, 2000, 0.5]
 
 for number in numbers:
     try:

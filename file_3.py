@@ -20,7 +20,7 @@ def circle_area(radius):
 print("Example of the program working with given radii:")
 
 # Заздалегідь задані радіуси
-radii = [3, 4.5, -2, 0]  # Радіуси можна змінювати за потреби
+radii = [4, 5.5, -3, 1]  # Радіуси можна змінювати за потреби
 
 print(f"Selected radii: {radii}")
 
