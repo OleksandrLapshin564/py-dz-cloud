@@ -57,7 +57,7 @@ def plot_trajectory(x, y):
 # Приклади використання
 try:
     # Заздалегідь задані приклади
-    v0_examples = [10, 20, 30]
+    v0_examples = [20, 30, 40]
     angle_examples = [30, 45, 60]
 
     print("Graphs for predefined examples:")
