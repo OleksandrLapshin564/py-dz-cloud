@@ -32,10 +32,10 @@ def main():
 
     # Заздалегідь задані приклади подій
     predefined_events = [
-        ("2024-12-10", "Team Meeting"),
-        ("2024-12-12", "Project Deadline"),
-        ("2024-12-15", "Christmas Party"),
-        ("2024-12-20", "Client Call")
+        ("2024-12-11", "Lesson # 25 by OOP"),
+        ("2024-12-16", "Lesson # 26 by OOP"),
+        ("2024-12-18", "Lesson # 27 by OOP"),
+        ("2024-12-19", "Exam and Weekend")
     ]
 
     # Додаємо ці події в календар
