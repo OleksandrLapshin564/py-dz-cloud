@@ -51,7 +51,7 @@ def calculate_working_hours(start_date, end_date):
 
 
 # Приклад використання
-start = "2024-12-01 15:00:00"
-end = "2024-12-05 10:30:00"
+start = "2024-11-28 17:00:00"
+end = "2024-12-06 12:37:00"
 working_hours = calculate_working_hours(start, end)
 print(f"Number of working hours between {start} and {end}: {working_hours}")
