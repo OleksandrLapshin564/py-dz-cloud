@@ -18,8 +18,8 @@ def is_birthday_weekend(birth_date, year):
 
 
 # Приклад використання
-birth_date = "05-20"  # День і місяць народження (20 травня)
-year = 2024
+birth_date = "04-07"  # День і місяць народження (07 квітня)
+year = 2025
 
 if is_birthday_weekend(birth_date, year):
     print(f"In {year}, the birthday falls on a weekend.")
