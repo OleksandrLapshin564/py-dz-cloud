@@ -39,4 +39,4 @@ def countdown_timer(target_date):
 
 
 # Приклад використання
-countdown_timer("2024-12-31 23:59:59")
+countdown_timer("2024-12-30 22:49:59")
