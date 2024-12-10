@@ -28,8 +28,8 @@ def get_mondays(start_date, end_date):
 
 
 # Приклади використання
-start = "2023-11-01"
-end = "2023-12-31"
+start = "2024-10-02"
+end = "2025-01-03"
 
 mondays = get_mondays(start, end)
 print(f"All Mondays between {start} and {end}:")
